@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are AIR</h1>
 
 <div align="center">
-  <img src="https://github.com/AIR-UFG/.github/assets/22282704/4b71a886-2ecb-4879-993e-c936803260c3" alt="Image Description" />
+  <img src="https://github.com/AIR-UFG/.github/assets/22282704/4b71a886-2ecb-4879-993e-c936803260c3"/>
 </div>
 
 An atom ⚛️ is the basic unit of matter. An atomic idea is the fundamental building block of innovation. At the **Atomic Ideas Research Group** 🔬 (**AIR**), we embrace this concept by fostering an environment where even the smallest idea can spark transformative breakthroughs in the fields of Artificial Intelligence (AI) and Robotics 🤖.
